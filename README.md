@@ -21,7 +21,7 @@ I am actively seeking **Internship opportunities** where I can contribute to rea
 ---
 
 ### 📊 GitHub Stats
-![Kai Xuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=g00451291&show_icons=true&theme=transparent)
+![Kai Xuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=g00451291&show_icons=true&theme=radical)
 
 ---
 
